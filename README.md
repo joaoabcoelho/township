@@ -8,9 +8,9 @@ With this setup, we can solve the problem with any method available for knapsack
 
 There are several possible solutions for 10 shires and the DP solver found the following:
 
-  Electoral votes won: 38 of 75 (50.7%)
-  Popular votes won: 136 of 560 (24.3%)
-  Shires won: 1, 2, 3, 4, 6 and 10
+  - Electoral votes won: 38 of 75 (50.7%)
+  - Popular votes won: 136 of 560 (24.3%)
+  - Shires won: 1, 2, 3, 4, 6 and 10
 
 We can then search for solutions for any number of shires. Here is how the minimum percentage needed to win varies with number of shires:
 

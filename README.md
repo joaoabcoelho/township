@@ -14,3 +14,4 @@ There are several possible solutions for 10 shires and the DP solver found the f
 
 We can then search for solutions for any number of shires. Here is how the minimum percentage needed to win varies with number of shires:
 
+!["Minimum percentage needed to win"](min_percentage.png)

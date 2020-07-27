@@ -15,11 +15,11 @@ There are several possible solutions for 10 shires and the DP solver found the f
 Interestingly, this solution includes the most populous shire, even though it gives us the least electoral votes per popular vote. It turns out to be more important to not overshoot the number of electoral votes won. Other equally good solutions are:
 
 Shires won:
-  - 1-4, 7, 9
-  - 1-3, 5, 6, 9
-  - 1-3, 5, 7, 8
-  - 1, 2, 4-6, 8
-  - 1, 3-7
+  - 1-4, 7 and 9
+  - 1-3, 5, 6 and 9
+  - 1-3, 5, 7 and 8
+  - 1, 2, 4-6 and 8
+  - 1 and 3-7
 
 We can then search for solutions for any number of shires. Here is how the minimum percentage needed to win varies with number of shires:
 
